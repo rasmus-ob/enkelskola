@@ -96,6 +96,6 @@ Tillslut tycker Gulliver att alla människor är vidriga varelser.
 
 **Författare:** Jonathan Swift
 
-Det skrivs med datum i boken för at få till en verkligare berättelse.
+Det skrivs med datum i boken för att få till en verkligare berättelse.
 
 Swift vill visa orättvisorna i samhället
