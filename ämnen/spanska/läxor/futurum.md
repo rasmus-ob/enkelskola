@@ -9,4 +9,4 @@
 
 ***Lägg till ett verb efteråt (böj ej)***
 
-**T.ex: _<u>Voy</u> a leer_**
+**T.ex: _<ins>Voy</ins> a leer_**
