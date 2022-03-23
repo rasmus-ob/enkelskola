@@ -26,7 +26,8 @@ Olika mycket makt
 - Tortyr och summariska rättegångar
 
 ## Demokratier och anmärkning
-Det finns många demokratier med anmärkning. Även om man har fria val kan våld
+Det finns många demokratier med anmärkning.        
+Även om man har fria val kan våld
 förekomma mot personer med fel åsikter. Det kan också förekomma
 maktmissbruk så som korruption.
 
