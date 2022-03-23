@@ -11,7 +11,7 @@
 ## Världsstäder:
 En världsstad har stora banker och huvudkontor för stora företag.
 
-**Tokyo:** Världens största stad med 34 miljoner invånare. Är ett finanscentrum för banker och aktiehandel. Bra hamnar och läget gör att det går bra att frakta varor.
+**Tokyo:** Världens största stad med 34 miljoner invånare. Är ett finanscentrum för banker och aktiehandel. Bra hamnar och läget gör att det går bra att frakta varor.           
 **Moskva:** 11,5 miljoner invånare. Lätt att frakta varor via floder, kanaler och järnvägar.   
 
 De måste fortfarande ha en bra infrastruktur. 
