@@ -166,4 +166,173 @@
 
 ---
 
----
+
+## Upplysningen I mer detalj
+
+**(1650- 1800)**
+
+Under epok, upplysningen kom de första idérna om grundläggande människorättigheter. Konstiga ideologier inom samhället under denna tid.
+
+## **Upplysningens Idéer:**
+
+Upplysningens grundläggande idéer om människor grundlagar kom från den Västeuropeiska delen som en reaktion mot kyrkans och kungarnas enorma makt.
+
+England förebild – kung makt’
+
+Många av Upplysningens idéer kommer från frankrike då detta ledde till franska revolutionen (1789- 1799) då detta hoppas förbättra villkoren för vanliga människor.
+
+Med vetenskapens framsteg började personer ifrågasätta religionen och kyrkan.
+
+Detta ledde till idéen för ett bättre samhälle där personer kan forma deras liv.
+
+Synen på barn ändrades då dem nu räknas som individer och uppfostrans metoder ändrades.
+
+“Oskrivet Blad” John Locke
+
+## **Några kända författare:**
+
+Daniel Defoe (1660 - 1731)
+
+Jonathan Swift (1667 - 1745)
+
+François de Voltaire (1694 - 1778)
+
+Jean-Jacques Rousseau (1712 - 1778)
+
+## **Daniel Defoe**
+
+Skrev texter som kritiserade kyrkan och dess maktmissbruk. t.ex robinson cruesoe
+
+### **Robinson Crusoe** (1719) är en roman av Daniel Defoe och handlar om en man som heter Robinson som fastnar på en Ö.
+
+Romanens huvud inriktning eller *Story* pratar om hur robinson klarar dem olika problemen med smart tänkande medans han försöker att leva på ön.
+
+Robinson Crusoe är skriven i Jag-Form.
+
+Polly
+
+T.ex tillgång till vatten och mat.
+
+Inspirerad av Alexander Selkirks.
+
+Fredag.
+
+Robinson Crusoe  visar människans sätt att lösa problem genom förnuft.
+
+## **Jonathan Swift:**
+
+Hans ironiska och satiriska texter kritiserade dåtidens samhälle.
+
+I ett anspråkslöst förslag för han fram idén att fattiga irländare borde sälja deras barn som mat. Och inom Sagan Om Tunnan, kritiserar han religionen och kyrkan.
+
+**Gullivers resor**. Där han reser till olika länder med olika raser av människor t.ex jättar.
+
+Nära samma sak som Sagan som tillåter honom att kritisera bättre än innan.
+
+Huvudkaraktären inom Gullivers Resor heter Lemuel Gulliver.
+
+Skeppet Antilopen.
+
+Lilliputarnas Land är det första landet Lemuel Gulliver läkaren på Antilopen kommer till.
+
+Länderna lilliput och Ön blefuscu är i krig på grund av att de oense om hur man knackar hål på ett ägg.
+
+Skeppet Adventure.
+
+Jättarnas land Brobdingnag
+
+## **François de Voltaire:**
+
+Filosof och författare som kritiserar den katolska kyrkan.
+
+## **Candide eller Optimisten (1759**). Romanen handlar om Candide, filosofen, följeslagare och hur dem överkommer dem olika svårigheter
+
+Historien börjar med att Candid med samma optimistiska ideal som hans lärare har provar att ha sex med Kunigunda och på grund av detta blev han utkastad av Baronen och kom ut i verkligheten.
+
+Två män i blå väst räddade honom och gav honom mat och dryck.
+
+På grund av det optimistiska tänkande Pangloss gav Candid accepterade han att tjäna den bulgariska kungen.
+
+Han flyr från armen och kommer till holland där Candid möter Pangloss.
+
+Pangloss blir sedan hängd på grund av offringar för att stoppa jordbävningar medans Candid möter en dam och återförenas med Kunigunda. Detta hände inom staden Lissabon.
+
+Slav hos Isakar
+
+Candid, gumman och Kunigunda stack emot Paraguay.
+
+Kunigunda bort säljds som fru till Buenos Aires.
+
+Eldorado och Cocombo.
+
+Cocombo skulle åka och med hjälp av deras rikedomar från eldorado skulle han fri köpa Kunigunda.
+
+Medans Candid väntade i Venedig.
+
+Martin.
+
+Galärslavar
+
+Historien slutar med att candid, pangloss, Martin, cocomo alla levde i ro.
+
+**Teodicéproblemet**: Hur kan man påstå att gud existerar, ifall det finn svält, och andra problem. Skapar en paradox. Med att gud är god men ändå tillåter han allt detta elände.
+
+Naiv
+
+Optimist
+
+Kritik mot religion
+
+Kritik mot att vara allt för positiv.
+
+Candide Ifrågasätter gudar på grund av att det finns så mycket elände inom landet så hur kan det finnas gudar?.
+
+Pangloss, tycker att dem ändå lever inom den bästa världen.
+
+## **Jean-Jacques Rousseau:**
+
+Romanen *Emile*
+
+**Männens Upplysning:**
+
+Franska revolutionen handlar mest om broderskap.
+
+Kvinnor inte samma rättigheter eller chanser för litteratur under franska revolutionens tid som män hade.
+
+# **Upplysningen**
+
+## Begrepp:
+
+**Myteri:** Kallas det när man gör uppror mot sin egen kapten.
+
+**Polly:** Var Robinson Crusoes Papegoja.
+
+**Pangloss:** Var candids lärare.
+
+**Candid:** Annars kallad optimisten och är huvudkaraktären bakom boken Candid.
+
+**Lilliput:** Var den första ön Lemuel kom tillj 
+
+**Brobdingnag:** *Var den andra ön Lemuel kom till*
+
+La puta var den tredje ön han kom till
+
+Hästarnas land var den 4 platsen Gulliver kom till. Landet kallas **Houyhnhnm Landet**
+
+**Fredag:** *Var Robinson Crusoes kamrat.*
+
+**Celsius:** *Faställde den 100 grader temperaturskalan.*
+
+**Dalin:** *Gav ut Sveriges första tidning.*
+
+**Kunnigunda:** *Var Candids fru.*
+
+**Teodiceproblemet:** *Pratar om ifall Gud verkligen finns med allt detta elände runtom världen som svält.* ****
+
+**Pangloss:** *Var Candids lärare, och anledningen till att han blev en optimist.* 
+
+**Blomsterkungen:** Han heter *Carl von Linné men har smeknamnet Blomsterkungen då han kartlade och delade upp växter.* 
+
+*“**Linné** skapade system för att klassificera och namnge naturen, och grunden i hans system används än i dag i hela den vetenskapliga världen.”* 
+
+**Allegori:** *En historia som är helt vanlig men handlar om något helt annat.*
