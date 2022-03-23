@@ -1,7 +1,7 @@
 # Ordklasser
 
 ## Pronomen:
-Ersätter Substantiv så set inte blir tjatigt.
+Ersätter Substantiv så att det inte blir tjatigt.
 
 ## Prepositioner:
 Går inte att böja      
