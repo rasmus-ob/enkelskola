@@ -3,10 +3,10 @@
 ## Metaforer
 Källa: [larare.at/svenska/moment/metafor/metafor_fakta.html](larare.at/svenska/moment/metafor/metafor_fakta.html)   
 
-Metaforen är ett bildligt uttryckssätt.
+Metaforen är ett bildligt uttryckssätt.    
 Bildspråk där ord/uttryk får en annan betydelse än rent bokstavligt.
 
-Är en metafor: ”Du är en ros”
+Är en metafor: ”Du är en ros”    
 Inte en metafor: “Du är som en ros”
 
 ## Liknelse
@@ -17,12 +17,13 @@ Man talar i språkliga bilder
 
 Magiska ordet är “som”.
 
-Är en liknelse: “Du är hungrig som en varg”
+Är en liknelse: “Du är hungrig som en varg”    
 Är också en liknelse: ”Du är som en ros”
 
 ## Besjälning
 Källa: [larare.at/svenska/moment/stilfigurer/stilfigurer.html](larare.at/svenska/moment/stilfigurer/stilfigurer.html)   
-Objekt får mänskliga egenskaper; med andra får döda ting liv. Träd kan få liv och dansa i vinden eller dess grenar sträcka sig efter dig för att föröka fånga dig (som i snövit).
+Objekt får mänskliga egenskaper; med andra får döda ting liv.    
+Träd kan få liv och dansa i vinden eller dess grenar sträcka sig efter dig för att föröka fånga dig (som i snövit).
 
 ## Satir
 Man hånar någon på ett elegant sätt.
@@ -44,7 +45,7 @@ Källa: [larare.at/svenska/moment/stilfigurer/stilfigurer.html](larare.at/svensk
 
 ## Parodi
 Källa: [synonymer.se/sv-syn/parodi](synonymer.se/sv-syn/parodi)    
-förlöjliande efter bildning
+Förlöjliande efter bildning
 “Daniel Norberg”
 	
 
