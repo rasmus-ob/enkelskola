@@ -1,5 +1,4 @@
 # Glosor (V.8)
-
 - Voy a = Jag ska
 - Vas a = Du ska
 - Va a = Han/hon ska
