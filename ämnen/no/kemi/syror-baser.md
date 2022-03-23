@@ -34,7 +34,7 @@ Om man blandar lika myckat av ett basiskt och surt ämne sker en neutralisation 
 - Rent Vatten
 
 **Kan delas:**
-H+ + OH  <-> H2O
+( H+ + OH  <-> H2O )
 
 ## Indikator 
 Är ett ämne som ändrar färg beroende på pH-värde
