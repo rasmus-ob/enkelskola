@@ -7,7 +7,7 @@ Syror är en grupp av ämnen med liknande egenskaper så som:
 - bildar vätejoner om de blandas med vatten (H+)
 - de har ett pH-värde under 7
 
-Ex:
+**Ex:**
 - Saltsyra
 - Citronsyra
 - Svavelsyra
@@ -20,7 +20,7 @@ Baser är en grupp av ämnen som med gemensamma egenskaper så som:
 - tar upp vätejoner och bildr hydroxidjoner(OH_)
 - de har ett pH-värde över 7
 
-Ex:
+**Ex:**
 - Ammoniak
 - Natriumhydroxid
 
@@ -30,15 +30,16 @@ de har ett pH-värde som är 7
 
 Om man blandar lika myckat av ett basiskt och surt ämne sker en neutralisation vilket resulterar ett pH-värde som är 7
 
-Ex:
+**Ex:**
 - Rent Vatten
 
+**Kan delas:**
 H+ + OH  <-> H2O
 
 ## Indikator 
 Är ett ämne som ändrar färg beroende på pH-värde
 
-Ex:
+**Ex:**
 - Fenolflation
 - BTB
 - pH-stickor
