@@ -19,19 +19,16 @@ T.ex: femte, sjätte, 25:e
 
 ## Konjunktioner:
 Ord som binder ihop
-t.ex
-och, men, för, att, som, om, när, då, innan
+T.ex: och, men, för, att, som, om, när, då, innan
 
 ## Interjektioner
 Ord som uttrycker känslor genom utrop eller en uppmaning.
 
 ## Utropsord:
-T.ex
-aj!, fy!, usch!. bravo!, fan!, hurra!, jippie!,
+T.ex: aj!, fy!, usch!. bravo!, fan!, hurra!, jippie!,
 
 ## Uppmaningsord:
-T.ex
-bort!, skål!, stopp!, schas!, tyst!
+T.ex: bort!, skål!, stopp!, schas!, tyst!
 
 
 
