@@ -31,6 +31,6 @@
 
 ## Rum
 1. Sovrummet = El dormitorio
-2. Badrummet = El cuarto De Bano
+2. Badrummet = El cuarto de bano
 3. Köket = La cocina
 4. Vardagsrummet = El cuatro de estar
