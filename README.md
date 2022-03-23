@@ -1,4 +1,4 @@
-# skol-anteckningar
+# skolanteckningar
 Här hamnar våra skolanteckningar
 
 // Anteckningarna är gjorda av Rasmus & William     
