@@ -16,8 +16,8 @@ Nieva = Snö
 Llueve = Regn
 
 ## Vädersträck
-El sur = Söder
-El norte = Norr
-El oeste = Väst
-El este = Öst
+- El sur = Söder
+- El norte = Norr
+- El oeste = Väst
+- El este = Öst
 
