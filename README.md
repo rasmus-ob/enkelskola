@@ -1,2 +1,4 @@
 # skolarbeten
-Här hamnar mina anteckningar
+Här hamnar skolanteckningar
+
+// Anteckningarna är gjorda av ... 
