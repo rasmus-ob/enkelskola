@@ -293,7 +293,7 @@ Pangloss, tycker att dem ändå lever inom den bästa världen.
 
 Romanen *Emile*
 
-**Männens Upplysning:**
+### Männens Upplysning:
 
 Franska revolutionen handlar mest om broderskap.
 
@@ -303,21 +303,21 @@ Kvinnor inte samma rättigheter eller chanser för litteratur under franska revo
 
 ## Begrepp:
 
-**Myteri:** Kallas det när man gör uppror mot sin egen kapten.
+**Myteri:** *Kallas det när man gör uppror mot sin egen kapten.*
 
-**Polly:** Var Robinson Crusoes Papegoja.
+**Polly:** *Var Robinson Crusoes Papegoja.*
 
-**Pangloss:** Var candids lärare.
+**Pangloss:** *Var Candides lärare.*
 
-**Candid:** Annars kallad optimisten och är huvudkaraktären bakom boken Candid.
+**Candide:** *Annars kallad optimisten och är huvudkaraktären bakom boken Candide.*
 
-**Lilliput:** Var den första ön Lemuel kom tillj 
+**Lilliput:** *Var den första ön Lemuel kom till* 
 
 **Brobdingnag:** *Var den andra ön Lemuel kom till*
 
-La puta var den tredje ön han kom till
+**La puta** *var den tredje ön Gulliver kom till*
 
-Hästarnas land var den 4 platsen Gulliver kom till. Landet kallas **Houyhnhnm Landet**
+*Hästarnas land var den fjärde platsen Gulliver kom till. Landet kallas* **Houyhnhnm Landet**
 
 **Fredag:** *Var Robinson Crusoes kamrat.*
 
@@ -331,8 +331,8 @@ Hästarnas land var den 4 platsen Gulliver kom till. Landet kallas **Houyhnhnm L
 
 **Pangloss:** *Var Candids lärare, och anledningen till att han blev en optimist.* 
 
-**Blomsterkungen:** Han heter *Carl von Linné men har smeknamnet Blomsterkungen då han kartlade och delade upp växter.* 
+**Blomsterkungen:** *Han heter Carl von Linné men har smeknamnet Blomsterkungen då han kartlade och delade upp växter.* 
 
-*“**Linné** skapade system för att klassificera och namnge naturen, och grunden i hans system används än i dag i hela den vetenskapliga världen.”* 
+**Linné** *skapade system för att klassificera och namnge naturen, och grunden i hans system används än i dag i hela den vetenskapliga världen.”* 
 
 **Allegori:** *En historia som är helt vanlig men handlar om något helt annat.*
