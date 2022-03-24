@@ -1,9 +1,11 @@
 # Välkommen till simpelt-plugg! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Här hamnar våra anteckningar från genomgångar och lektioner!😄
 
-För att börja tryck på "ämnen" högre upp på sidan!
 
-<img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial1.png?raw=true" />
+<img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial01.png?raw=true"></img>    
+📔 ***För att börja tryck på "ämnen" högre upp på sidan!***
+
+---
 
 - Anteckningarna är gjorda av Rasmus & William     
 - Läxorna är gjorda av lärarna
