@@ -1,5 +1,5 @@
 # Välkommen till simpelt-plugg! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Här hamnar våra anteckningar från genomgångar och lektioner!😄
+Här hamnar våra anteckningar från genomgångar och lektioner!😁
 
 
 <img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial01.png?raw=true"></img>    
