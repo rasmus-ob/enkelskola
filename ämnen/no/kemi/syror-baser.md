@@ -17,7 +17,7 @@ Syror är en grupp av ämnen med liknande egenskaper så som:
 Baser är en grupp av ämnen som med gemensamma egenskaper så som:
 - känns hala, tvåliga
 - kan vara frätande
-- tar upp vätejoner och bildr hydroxidjoner(OH_)
+- tar upp vätejoner och bildar hydroxidjoner(OH_)
 - de har ett pH-värde över 7
 
 **Ex:**
