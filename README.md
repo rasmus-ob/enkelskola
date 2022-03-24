@@ -7,7 +7,7 @@ Här hamnar våra anteckningar från genomgångar och lektioner! 😁
 
 ---
 
-- Anteckningarna är gjorda av Rasmus & William     
+- Anteckningarna är gjorda av [Rasmus](https://github.com/rasmus-ob/) & William     
 - Läxorna är gjorda av lärarna
 
 
