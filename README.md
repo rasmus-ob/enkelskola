@@ -3,7 +3,7 @@ Här hamnar våra anteckningar från genomgångar och lektioner!😄
 
 För att börja tryck på "ämnen" högre upp på sidan!
 
-<img src="" />
+<img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial1.png?raw=true" />
 
 - Anteckningarna är gjorda av Rasmus & William     
 - Läxorna är gjorda av lärarna
