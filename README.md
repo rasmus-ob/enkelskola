@@ -1,4 +1,4 @@
-# Hur använder man simpelt-plugg <img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/questionblock.gif?raw=true" style="width: 30px; height: 30px;">
+# Hur använder man simpelt-plugg?
 
 
 <img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial1.png?raw=true">
