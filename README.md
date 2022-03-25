@@ -1,9 +1,17 @@
-# Välkommen till simpelt-plugg! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Här hamnar våra anteckningar från genomgångar och lektioner! 😁
+# Hur använder man simpelt-plugg?
 
 
 <img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial1.png?raw=true">
-🖱 ***För att börja tryck på "ämnen" högst upp på sidan!***
+
+🖱 ***Tryck på "ämnen" högre upp på sidan (ignorera de andra mapparna & filerna)!***
+
+<img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial2.png?raw=true">
+
+📙 ***Välj ett ämne***
+
+<img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial3.png?raw=true">
+
+📙 ***Fortsätt tills du hittar en anteckning!***
 
 ---
 
