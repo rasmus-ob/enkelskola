@@ -224,8 +224,6 @@ Gud fadern, den heliga Ande och Jesus Kristus är en och samma gud.
 
 **Kristendom: Du ska kunna...**
 
-**Kristendom: Du ska kunna...**
-
 - Berätta om kristendomens historia och Jesus roll inom kristendomen.
 
 - Känna till de viktigaste händelserna i Jesu liv, från att Maria blir gravid
