@@ -1,4 +1,4 @@
-# Hur använder man simpelt-plugg?
+# Hur använder man simpelt-plugg❓
 
 
 <img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial1.png?raw=true">
@@ -11,7 +11,9 @@
 
 <img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial3.png?raw=true">
 
-📙 ***Fortsätt tills du hittar en anteckning!***
+📜 ***Fortsätt tills du hittar en anteckning!***
+
+ 📚 ***Sedan läser du!***
 
 ---
 
