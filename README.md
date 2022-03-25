@@ -2,7 +2,8 @@
 Här hamnar våra anteckningar från genomgångar och lektioner! 😁
 
 
-<img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial1.png?raw=true"></img>     
+<img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial1.png?raw=true">
+
 📔 ***För att börja tryck på "ämnen" högre upp på sidan!***
 
 ---
