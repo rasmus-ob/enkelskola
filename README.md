@@ -15,7 +15,7 @@
 
  📚 ***Sedan läser du!***
 
-<img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/share.gif?raw=true" style="width: 200; height: 200;"> Dela Gärna!
+<img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/share.gif?raw=true" style="width: 20px; height: 20px;"> Dela Gärna!
 
 ---
 
