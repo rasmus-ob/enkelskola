@@ -1,24 +1,24 @@
 # Hur använder man simpelt-plugg?
 
-### 🖱 ***Tryck på "ämnen" högre upp på sidan (ignorera de andra mapparna & filerna)!***
+### 1. ***Tryck på "ämnen" högre upp på sidan (ignorera de andra mapparna & filerna)!***
 
 <img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial1.png?raw=true" style="width:700px"> 
 
 ---
 
-### 📙 ***Välj ett ämne***
+### 2. ***Välj ett ämne***
 
 <img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial2.png?raw=true" style="width:700px"></img>
 
 ---
 
-### 📜 ***Fortsätt tills du hittar en anteckning!***
+### 3. ***Fortsätt tills du hittar en anteckning!***
 
 <img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial3.png?raw=true" style="width:700px">
 
 ---
 
- ### 📚 ***Sedan pluggar du!*** 
+ ### 4. ***Sedan pluggar du!*** 
  ### <img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/share.jpg?raw=true" style="width: 20px; height: 20px;"> ***Dela Gärna!***
 
 ---
