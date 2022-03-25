@@ -1,9 +1,6 @@
 # Välkommen till simpelt-plugg! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Här hamnar våra anteckningar från genomgångar och lektioner! 😁
 
-
-<img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial1.png?raw=true">
-
 🖱 [***För att börja tryck här***](https://github.com/rasmus-ob/simpelt-plugg/)
 
 📔 ***Sedan följer du guiden på sidan***
