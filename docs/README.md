@@ -1,5 +1,7 @@
 # Välkommen till simpelt-plugg! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Här hamnar våra anteckningar från genomgångar och lektioner! 😁
+Här finns anteckningar från genomgångar, läxor, m.m från de flesta ämnena!
+
+Hoppas detta hjälper!
 
 🖱 [***För att börja tryck här***](https://github.com/rasmus-ob/simpelt-plugg/)
 
