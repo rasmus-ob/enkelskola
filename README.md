@@ -1,21 +1,24 @@
 # Hur använder man simpelt-plugg?
 
-
-<img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial1.png?raw=true">
-
 🖱 ***Tryck på "ämnen" högre upp på sidan (ignorera de andra mapparna & filerna)!***
 
-<img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial2.png?raw=true">
+<img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial1.png?raw=true" style="width:700px"> 
+
+---
 
 📙 ***Välj ett ämne***
 
-<img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial3.png?raw=true">
+<img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial2.png?raw=true" style="width:700px"></img>
+
+---
 
 📜 ***Fortsätt tills du hittar en anteckning!***
 
- 📚 ***Sedan läser du!***
+<img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/tutorial3.png?raw=true" style="width:700px">
 
-<img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/share.gif?raw=true" style="width: 20px; height: 20px;"> ***Dela Gärna!***
+---
+
+ 📚 ***Sedan pluggar du!*** <img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/share.jpg?raw=true" style="width: 20px; height: 20px;"> ***Dela Gärna!***
 
 ---
 
