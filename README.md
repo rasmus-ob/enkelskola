@@ -15,6 +15,8 @@
 
  📚 ***Sedan läser du!***
 
+<img src="https://github.com/rasmus-ob/simpelt-plugg/blob/main/src/share.gif?raw=true" style="width: 200; height: 200;"> Dela Gärna!
+
 ---
 
 - Anteckningarna är gjorda av [Rasmus](https://github.com/rasmus-ob/) & [William](https://github.com/Willys07)     
