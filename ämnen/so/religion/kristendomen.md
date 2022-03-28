@@ -8,6 +8,14 @@
 - Noaks ark
 - Abraham
 - Moses
+- Gud skapar allt
+- Adam och Eva är de första människorna
+- De fördrivs ur paradiset på grund av synd
+- Noaks ark
+- Abraham
+- Moses
+
+Man tror att alla som föds efter att Adam och Eva har blivit syndiga (de måste fixa det. t.ex genom dop).
 
 ## Nya testamentet
 
@@ -20,12 +28,58 @@
 - Romarna var anledningen till att Jesus dog på grund av propaganda från Jesus.
 - Evangelierna 4 stycken Jesus första lärlingar.
 - Paulus(märkte att kristna hade rätt) och Petrus(en av Jesus närmaste vänner.) grundar församlingar.
-- Martyrer: personer dödas på grund av sin tro.
+- Martyrer: personer dödas på grund av sin tro. 
+- Ängeln Gabriel visar Maria
+- Jesus föds
+- Jesus predikar och gör under
+- Jesus dödas och återuppstår
+- Jesus himmelsfärd
+- Pingst - apostlarna tar emot den helige anden i Jerusalem
+- **Paulus** och **Petrus** grundar församlingar
+
+## Tre stora kyrkor:
+
+**Katolska, ortodoxa, protestantiska**
+
+Det har uppstått krig emellan dem.
+
+Katolska är den ursprungliga kyrkan
+
+## Två stora brytningar:
+
+### **1000 -talet**
+
+*Kyrkan delas i två; den katolska kyrkan i väst med Rom som centrum, och de ortodoxa i öst med konstantinopel som centrum.*
+
+## Katolska Kyrkan:
+
+- *1.3 miljarder katoliker*
+- *Påven är ledare*
+- *Sju sakrament*
+- *Leds från Vatikanstaten i Rom*
+- *Man tror att nattvarden är på riktigt kropp och blod*
+
+## Ortodoxa kyrkor:
+
+- *300 miljoner medlemmar*
+- *Flera självständiga kyrkor men i patriarken i Konstantinopel (Istanbul) räknas som dess ledare*
+- *Ikoner*
+
+## Protestantiska Kyrkan:
+
+- *800 Miljoner medlemmar*
+- *Många inriktningar*
+- *Martin Luther ville inte att påven skulle ha politisk makt*
+- *Bibeln, inte kyrkan är grunden för tron*
 
 ## Tron
 
 - Gud skapar och upprätthåller världen. Gud blev människa. Jesus dog och uppstod för att besegra synden och döden.
 - Anden finns hos den som tror.
+- Gud skapar och underhåller världen
+- Gud blev människa
+- Jesus dog och uppstod för att besegra synden och döden
+- Anden finns hos den som tror
 
 ## Läran
 
@@ -33,6 +87,10 @@
 - Människan kan få förlåtelse för sina synder.
 - Den gyllene regeln.
 - symbol för att Jesus offrade sig för människorna. Och inom den katolska kyrkan anses detta vara Jesus.
+- Människan har fri vilja och ansvar
+- Jesus visar vägen genom evangelierna
+- Männsikan kan få förlåtelse för sina synder
+- Gyllene Regeln
 
 ## Heliga dagar:
 
@@ -79,136 +137,19 @@
     
     
 - **Begravning**
-    - **Den sjukas smörjelse**
-        
-        utförs när en gammal person är väldigt sjuk och nära döden då kommer en präst och smörjer olja över deras panna. 
-        
-    - Prästgivning
-        
-        En cermoni då man väljer ut en präst. Utför av 
-        
-    
+- **Den sjukas smörjelse**
+ 
+    Utförs när en gammal person är väldigt sjuk och nära döden då kommer en präst och smörjer olja över deras panna. 
+- **Prästgivning**
 
----
+    En cermoni då man väljer ut en präst. Utförs av en biskop.
 
-## Tre stora kyrkor:
-
-**Katolska, ortodoxa, protestantiska**
-
-Det har uppstått krig emellan dem.
-
-Katolska är den ursprungliga kyrkan
-
----
-
-## Två stora brytningar:
-
-### **1000 -talet**
-
-*Kyrkan delas i två; den katolska kyrkan i väst med Rom som centrum, och de ortodoxa i öst med konstantinopel som centrum.*
-
----
-
-## Katolska Kyrkan:
-
-- *1.3 miljarder katoliker*
-- *Påven är ledare*
-- *Sju sakrament*
-- *Leds från Vatikanstaten i Rom*
-- *Man tror att nattvarden är på riktigt kropp och blod*
-
----
-
-## Ortodoxa kyrkor:
-
-- *300 miljoner medlemmar*
-- *Flera självständiga kyrkor men i patriarken i Konstantinopel (Istanbul) räknas som dess ledare*
-- *Ikoner*
-
----
-
-## Protestantiska Kyrkan:
-
-- *800 Miljoner medlemmar*
-- *Många inriktningar*
-- *Martin Luther ville inte att påven skulle ha politisk makt*
-- *Bibeln, inte kyrkan är grunden för tron*
-
-## Extra:
-
-- **Treenigheten**
-    
-    *Gud fadern, den helige Ande och Jesus Kristus är en och samma gud*
-
----
-
-## Bibeln kortfattat - Gamla Testamentet:
-
-- Gud skapar allt
-- Adam och Eva är de första människorna
-- De fördrivs ur paradiset på grund av synd
-- Noaks ark
-- Abraham
-- Moses
-
-Man tror att alla som föds efter att Adam och Eva har blivit syndiga (de måste fixa det. t.ex genom dop).
-
----
-
-## Bibeln kortfattat - Nya Testamentet:
-
-- Ängeln Gabriel visar Maria
-- Jesus föds
-- Jesus predikar och gör under
-- Jesus dödas och återuppstår
-- Jesus himmelsfärd
-
-- Pingst - apostlarna tar emot den helige anden i jerusalem
-- **Paulus** och **Petrus** grundar församlingar
-- Martyrer dödas på grund av tro
-
-### Man tror att gud och Jesus är samma person
+## Treenigheten
 
 - Jesus uppdrag var att sprida guds ord
 - Leva osyndigt
 
-**Guds former:** Gud, Jesus och Den heliga anden
-
-Man tror att Jesus dog pga romarna, då Jesus hotar dem.
-
----
-
-## Tron:
-
-- Gud skapar och underhåller världen
-- Gud blev människa
-- Jesus dog och uppstod för att besegra synden och döden
-- Anden finns hos den som tror
-
----
-
-## Läran:
-
-- Människan har fri vilja och ansvar
-- Jesus visar vägen genom evangelierna
-- Männsikan kan få förlåtelse för sina synder
-- Gyllene Regeln
-
----
-
-## Treenigheten:
-
-Gud fadern, den heliga Ande och Jesus Kristus är en och samma gud.
-
----
-
-## Heliga dagar:
-
-- **Advent och jul** - *Jesus föds*
-- **Påsk (skärtorsdag, långfredag)** - *till minne av Jesus död*
-- **Pingst** - *Man tror att den heliga ande kommer tillbaka till lärljungarna*
-
----
+**Guds former:** Gud (Fadern), Jesus (Sonen) och Den heliga anden
 
 ## Extra:
 
@@ -220,20 +161,4 @@ Gud fadern, den heliga Ande och Jesus Kristus är en och samma gud.
 
 *Älska varandra, Älska gud*
 
-### Prov guiden:
-
-**Kristendom: Du ska kunna...**
-
-- Berätta om kristendomens historia och Jesus roll inom kristendomen.
-
-- Känna till de viktigaste händelserna i Jesu liv, från att Maria blir gravid
-- Kristendomens urkunder och heliga skrifter. (Bibeln, gamla och nya testamentet).
-- Viktiga riter, seder och bruk inom kristendomen såsom till exempel dop, bröllop och nattvard.
-- Viktiga högtider. (Advent, Jul, Påsk, Pingst)
-- Kristendomens inriktningar. (katolska, protestantiska, ortodoxa)
-    - Hur dessa skiljer sig åt och hur de ser på olika frågor. (Exempelvis Sakramenten, sexualitet, äktenskap, jämställdhet, Påvens makt)
-- Centrala tankar inom kristendomen.
-    - Vad innebär treenigheten?
-    - Vad dopet och nattvard innebär och vilken roll de spelar i kristendomen.
-    - Arvsyndens betydelse
-- Kunna jämföra Kristendomen med judendomen, till exempel synen på matregler, messias och Abraham, samt anledningar till att man firar påsk.
+*Man tror att Jesus dog pga romarna, då Jesus hotar dem.*
