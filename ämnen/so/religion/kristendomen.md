@@ -9,33 +9,22 @@
 - Abraham
 - Moses
 - Gud skapar allt
-- Adam och Eva är de första människorna
-- De fördrivs ur paradiset på grund av synd
-- Noaks ark
-- Abraham
-- Moses
 
 Man tror att alla som föds efter att Adam och Eva har blivit syndiga (de måste fixa det. t.ex genom dop).
 
 ## Nya testamentet
 
-- Ängel Gabriel visar sig för Maria
+- Ängel Gabriel besöker Maria
 - Jesus föds
 - Jesus predikar och gör under
-- Jesus dödades och återuppstår
-- Jesus himmelsfärd
 - Jesus är guds son. Gud föds i en människo kropp utan synd lever spreds kristendomen och sedan dör.
 - Romarna var anledningen till att Jesus dog på grund av propaganda från Jesus.
 - Evangelierna 4 stycken, Jesus första lärlingar.
-- Paulus(märkte att kristna hade rätt) och Petrus(en av Jesus närmaste vänner.) grundar församlingar.
+- **Paulus(märkte att kristna hade rätt)** och **Petrus(en av Jesus närmaste vänner.)** grundar församlingar.
 - Martyrer: personer dödas på grund av sin tro. 
-- Ängeln Gabriel visar Maria
-- Jesus föds
-- Jesus predikar och gör under
 - Jesus dödas och återuppstår
 - Jesus himmelsfärd
 - Pingst - apostlarna tar emot den helige anden i Jerusalem
-- **Paulus** och **Petrus** grundar församlingar
 
 ## Tre stora kyrkor:
 
@@ -83,14 +72,11 @@ Katolska är den ursprungliga kyrkan
 
 ## Läran
 
-- Människan har fri vilja och ansvar. Jesus visar vägen genom evangelierna.
+- Människan har fri vilja och ansvar. 
+- Jesus visar vägen genom evangelierna.
 - Människan kan få förlåtelse för sina synder.
 - Den gyllene regeln.
 - symbol för att Jesus offrade sig för människorna. Och inom den katolska kyrkan anses detta vara Jesus.
-- Människan har fri vilja och ansvar
-- Jesus visar vägen genom evangelierna
-- Männsikan kan få förlåtelse för sina synder
-- Gyllene Regeln
 
 ## Heliga dagar:
 
