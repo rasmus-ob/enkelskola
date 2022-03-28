@@ -18,6 +18,7 @@
 - Fort/forte = Stark
 - Plein/pleine = Full
 - Vide/vide = Tom
+------------------------------------------------------
 - Faible/faible = Svag
 - Bête/bête = Dum
 - Stupide/stupide = Dum
