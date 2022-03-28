@@ -26,7 +26,7 @@ Man tror att alla som föds efter att Adam och Eva har blivit syndiga (de måste
 - Jesus himmelsfärd
 - Jesus är guds son. Gud föds i en människo kropp utan synd lever spreds kristendomen och sedan dör.
 - Romarna var anledningen till att Jesus dog på grund av propaganda från Jesus.
-- Evangelierna 4 stycken Jesus första lärlingar.
+- Evangelierna 4 stycken, Jesus första lärlingar.
 - Paulus(märkte att kristna hade rätt) och Petrus(en av Jesus närmaste vänner.) grundar församlingar.
 - Martyrer: personer dödas på grund av sin tro. 
 - Ängeln Gabriel visar Maria
