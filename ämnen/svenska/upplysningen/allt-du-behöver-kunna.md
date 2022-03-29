@@ -1,4 +1,5 @@
-### **Viktiga frågor (Prov )**
+# Upplysningen
+## **Viktiga frågor (Inför Prov)**
 
 - **Mellan vilka år (ca) brukar man säga att upplysningen ägde rum?**
     
@@ -9,33 +10,38 @@
     *Det typiska inom upplysningen var kritiseringen av kyrkan och enorm makt som kungen. Detta gjordes med hjälp av satir som användes under dessa tider som ett sätt att elegant håna dem med enorm makt.*
     
 - **Kunna lite om dessa typiska upplysningspersoner: *Voltaire, Rousseau, Swift, Defoe, Newton, Locke, de Gouges, von Dalin, HC Nordenflycht, AM Lenngren, Bellman.***
+## Kort fakta
+*Swift skrev Gullivers Resor medans Defoe skrev Robinson Cruesoe.*
     
-    *Swift skrev Gullivers Resor medans Defoe skrev Robinson Cruesoe.*
+---
     
-    ---
+*Inom Gullivers resor kommer Lemuel Gulliver till 4 olika öar. Detta är i kronologisk ordning, Lilliput, Brobdingnag, La Puta och Hästarnas land.*
     
-    *Inom Gullivers resor kommer Lemuel Gulliver till 4 olika öar. Detta är i kronologisk ordning, Lilliput, Brobdingnag, La Puta och Hästarnas land.*
+---
     
-     *Voltarie skrev Candide eller annars kallad Optimisten. Enligt boken är Kunigunda Candides fru. Medans Pangloss var han Candids lärare, och var anledningen till varför Candid var en optimist.* 
+*Voltarie skrev Candide eller annars kallad Optimisten. Enligt boken är Kunigunda Candides fru. Medans Pangloss var han Candids lärare, och var anledningen till varför Candid var en optimist.* 
     
-     *Rousseau förde fram de mänskliga rättigheter Jämlikhet, Broderskap och Frihet. En av hans viktigaste verk är Julie.*
+*Rousseau förde fram de mänskliga rättigheter Jämlikhet, Broderskap och Frihet. En av hans viktigaste verk är Julie.*
     
-    ---
+---
     
-    *Bellman* var Sveriges mest kända författare, då han skrev evangliernas dödstankar. *Von* *Dalin Gav* ut Den svenska Agrus. Han brukar säga att det var han som gav ut den första svenska tidningen. Var en nyhetstidning. Kallades Then Swänska Argus.
+*Bellman* var Sveriges mest kända författare, då han skrev evangliernas dödstankar. *Von* *Dalin Gav* ut Den svenska Agrus. Han brukar säga att det var han som gav ut den första svenska tidningen. Var en nyhetstidning. Kallades Then Swänska Argus.
     
-    ---
+---
     
-    *AM Lenngren* skrev dikten Pojkarne. 
+*AM Lenngren* skrev dikten Pojkarne. 
     
-    ---
+---
     
-    *HC Nordenflycht*: Hon skrev den långa dikten Fruntimmrets försvar som handlade om lomar mot kvinnor. *De Gouges* var del av den franska revolutionen och sedan blev feminist i början av 1700 talet.
+*HC Nordenflycht*: Hon skrev den långa dikten Fruntimmrets försvar som handlade om lomar mot kvinnor. *De Gouges* var del av den franska revolutionen och sedan blev feminist i början av 1700 talet.
     
-    ---
+---
     
-    *Carl von linné:* Kallas ofta Blomsterkungen, han gav latinska namn till växtligheterna runtom landet.
+*Carl von linné:* Kallas ofta Blomsterkungen, han gav latinska namn till växtligheterna runtom landet.
     
+---
+    
+## Frågor att testa sig med
 - **Vad var det viktigaste budskapet i ”Robinson Crusoe”?**
     
     *Förnuftet*
@@ -61,11 +67,6 @@
     *Hur kan gud finnas trots att det finns så mycket elände och ondska i världen.*
     
     *Finns verkligen gud med allt detta elände runt om världen?. Att besvara det går genom att visa att Gud faktiskt finns.*
-    
-
----
-
-### **Korsords Frågor**
 
 - **Vad hette Robinsons trogne tjänare**
     
@@ -162,10 +163,6 @@
 - **Detta är när sjömän gör uppror mot sin kapten**
     
     *Myteri*
-    
-
----
-
 
 ## Upplysningen I mer detalj
 
@@ -201,7 +198,7 @@ Jean-Jacques Rousseau (1712 - 1778)
 
 ## **Daniel Defoe**
 
-Skrev texter som kritiserade kyrkan och dess maktmissbruk. t.ex robinson cruesoe
+Skrev texter som kritiserade kyrkan och dess maktmissbruk. T.ex Robinson Crusoe
 
 ### **Robinson Crusoe** (1719) är en roman av Daniel Defoe och handlar om en man som heter Robinson som fastnar på en Ö.
 
@@ -301,7 +298,7 @@ Kvinnor inte samma rättigheter eller chanser för litteratur under franska revo
 
 # **Upplysningen**
 
-## Begrepp:
+## Mer Begrepp:
 
 **Myteri:** *Kallas det när man gör uppror mot sin egen kapten.*
 
