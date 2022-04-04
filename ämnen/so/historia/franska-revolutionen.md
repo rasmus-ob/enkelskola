@@ -9,6 +9,8 @@
     - *kan ske p.g,a orättvisor (vanligaste sättet)*
     - *kan ske i form av en statskupp (statskupp = olagligt maktövertagande)*
     - *Förändra politiska, ekonomiska, sociala makten (målet)*
+
+
 - **Adeln:** *Rika människor som har bättre privilegier ( en överordnad samhällsgrupp )*
 - **Inflation:** *Värdet på pengar minskar p.g.a lönerna höjs ⇒ vilket gör så att priserna höjs ⇒ vilket i sin tur gör så att pengar minskar i värde.*
 - **Privilegier**
