@@ -13,7 +13,7 @@
 
 - **Adeln:** *Rika människor som har bättre privilegier ( en överordnad samhällsgrupp )*
 - **Inflation:** *Värdet på pengar minskar p.g.a lönerna höjs ⇒ vilket gör så att priserna höjs ⇒ vilket i sin tur gör så att pengar minskar i värde.*
-- **Privilegier**
+- **Privilegier:** *Det är en exklusiv rättighet ( ger oftast ut av staten )*
 
 ## År 1789:
 
